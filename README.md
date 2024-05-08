@@ -396,8 +396,9 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 }
 ```
 ## OUTPUT:
-![image](https://github.com/Ritika-2706/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/93427238/9674500e-713a-45ed-8b6b-abba06b55b36)
-
+![m1](https://github.com/Ritika-2706/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/93427238/040e4fc8-bbc9-4313-afcb-b2d246e56ca3)
+![m2](https://github.com/Ritika-2706/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/93427238/db988dcc-f02f-4b7b-93ca-32112aa97cbe)
+![m3](https://github.com/Ritika-2706/PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24/assets/93427238/5fbd491f-ad4f-441e-bf67-5f1feff9f487)
 
 ## RESULT:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
